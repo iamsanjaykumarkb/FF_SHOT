@@ -65,7 +65,7 @@ Screenshot generation completed!
 - It is recommended to have FFmpeg installed and added to your system's PATH environment variable for the script to work properly.
 - Make sure you have the necessary permissions to write to the output folder.
 
-## CODE TO GET THIS IN GHAT GPT
+## SUMMARISED THAT I PROMPT USED TO CREATE THIS SCRIPT IN GHAT GPT
 
 To generate the FF_SHOT script with all the features and prompts using ChatGPT, you can use the following GPT prompt:
 
